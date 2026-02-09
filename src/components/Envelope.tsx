@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 
 const Envelope = () => {
   const messages = [
+    "",
     "Zaczęło się zupełnie zwyczajnie, w mieście. A skończyło na tym, że nie potrafię przestać o Tobie myśleć.",
     "Nawet los miał wtedy jasne zdanie. Ktoś obcy wskazał Ciebie… a ja od razu wiedziałem, że ma rację 😌",
     "Od tamtej chwili wszystko zaczęło się układać szybciej, niż się spodziewałem. I dokładnie tak miało być.",
