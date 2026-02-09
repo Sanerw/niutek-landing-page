@@ -21,6 +21,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${pacifico.className} antialiased`}>{children}</body>
       <link rel="preload" as="image" href="/images/bg.png" />
+      <link rel="preload" as="image" href="/images/envelope.png" />
     </html>
   );
 }

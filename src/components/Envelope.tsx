@@ -16,7 +16,7 @@ const Envelope = () => {
 
   useEffect(() => {
     let timeout: ReturnType<typeof setTimeout>;
-    let i = 0;
+    let i = -1;
 
     setDisplayedText("");
     setIsTyping(true);
