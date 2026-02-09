@@ -4,10 +4,14 @@ import { useEffect, useState } from "react";
 
 const Envelope = () => {
   const messages = [
-    "Uwielbiam Twoj smiech - serio, czasem przez Ciebie az sie przewracam ze smiechu 1",
-    "Uwielbiam Twoj smiech - serio, czasem przez Ciebie az sie przewracam ze smiechu 2",
-    "Uwielbiam Twoj smiech - serio, czasem przez Ciebie az sie przewracam ze smiechu 3",
-    "Uwielbiam Twoj smiech - serio, czasem przez Ciebie az sie przewracam ze smiechu 4",
+    "Zaczęło się zupełnie zwyczajnie, w mieście. A skończyło na tym, że nie potrafię przestać o Tobie myśleć.",
+    "Nawet los miał wtedy jasne zdanie. Ktoś obcy wskazał Ciebie… a ja od razu wiedziałem, że ma rację 😌",
+    "Od tamtej chwili wszystko zaczęło się układać szybciej, niż się spodziewałem. I dokładnie tak miało być.",
+    "Uwielbiam Twój śmiech — serio. Są momenty, kiedy przez Ciebie naprawdę nie mogę przestać się śmiać.",
+    "Przy Tobie jest mi po prostu dobrze. Spokojnie, ciepło i jakoś… właściwie.",
+    "Lubię dbać o Ciebie i być obok, kiedy tego potrzebujesz. Robię to naturalnie — bo mi zależy.",
+    "Kocham to, co jest między nami. I to, jak czuję się przy Tobie każdego dnia.",
+    "To nie jest przypadek. To coś, co chcę wybierać — Ciebie.",
   ];
 
   const [index, setIndex] = useState(0);
