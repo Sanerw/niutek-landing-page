@@ -43,6 +43,8 @@ const Envelope = () => {
   const handleClick = () => {
     if (isTyping) return;
 
+    if (index === messages.length - 1) return;
+
     setIndex((prev) => (prev + 1) % messages.length);
   };
 
