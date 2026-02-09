@@ -7,6 +7,8 @@ const Background = () => {
       alt="Background"
       fill
       className="absolute inset-0 object-cover"
+      priority
+      sizes="100vw"
     />
   );
 };
