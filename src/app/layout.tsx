@@ -20,6 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${pacifico.className} antialiased`}>{children}</body>
+      <link rel="preload" as="image" href="/images/bg.png" />
     </html>
   );
 }
