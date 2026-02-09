@@ -51,7 +51,7 @@ const Envelope = () => {
   return (
     <div className="relative">
       <Image
-        src="/images/envelope3.png"
+        src="/images/envelope3.webp"
         alt="Envelope"
         width={490}
         height={580}

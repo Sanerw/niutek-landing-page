@@ -3,7 +3,7 @@ import Image from "next/image";
 const Background = () => {
   return (
     <Image
-      src="/images/bg.png"
+      src="/images/bg.webp"
       alt="Background"
       fill
       className="absolute inset-0 object-cover"
