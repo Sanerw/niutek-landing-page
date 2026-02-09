@@ -49,6 +49,7 @@ const Envelope = () => {
         alt="Envelope"
         width={490}
         height={580}
+        priority
       />
 
       <div className="flex px-16 absolute inset-0 pt-28 pb-28 justify-center">
