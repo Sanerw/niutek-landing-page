@@ -4,14 +4,23 @@ import { useEffect, useState } from "react";
 
 const Envelope = () => {
   const messages = [
-    "Zaczęło się zupełnie zwyczajnie, w mieście. A skończyło na tym, że nie potrafię przestać o Tobie myśleć.",
-    "Nawet los miał wtedy jasne zdanie. Ktoś obcy wskazał Ciebie… a ja od razu wiedziałem, że ma rację 😌",
-    "Od tamtej chwili wszystko zaczęło się układać szybciej, niż się spodziewałem. I dokładnie tak miało być.",
-    "Uwielbiam Twój śmiech — serio. Są momenty, kiedy przez Ciebie naprawdę nie mogę przestać się śmiać.",
-    "Przy Tobie jest mi po prostu dobrze. Spokojnie, ciepło i jakoś… właściwie.",
-    "Lubię dbać o Ciebie i być obok, kiedy tego potrzebujesz. Robię to naturalnie — bo mi zależy.",
-    "Kocham to, co jest między nami. I to, jak czuję się przy Tobie każdego dnia.",
-    "To nie jest przypadek. To coś, co chcę wybierać — Ciebie.",
+    // "Zaczęło się zupełnie zwyczajnie, w mieście. A skończyło na tym, że nie potrafię przestać o Tobie myśleć.",
+    // "Nawet los miał wtedy jasne zdanie. Ktoś obcy wskazał Ciebie… a ja od razu wiedziałem, że ma rację 😌",
+    // "Od tamtej chwili wszystko zaczęło się układać szybciej, niż się spodziewałem. I dokładnie tak miało być.",
+    // "Uwielbiam Twój śmiech — serio. Są momenty, kiedy przez Ciebie naprawdę nie mogę przestać się śmiać.",
+    // "Przy Tobie jest mi po prostu dobrze. Spokojnie, ciepło i jakoś… właściwie.",
+    // "Lubię dbać o Ciebie i być obok, kiedy tego potrzebujesz. Robię to naturalnie — bo mi zależy.",
+    // "Kocham to, co jest między nami. I to, jak czuję się przy Tobie każdego dnia.",
+    // "To nie jest przypadek. To coś, co chcę wybierać — Ciebie.",
+    "Zaczęło się zwyczajnie, w mieście… a stało się czymś, co naprawdę dużo dla mnie znaczy.",
+    "Nie planowałem tego, ale bardzo się cieszę, że to właśnie Ty stanęłaś na mojej drodze.",
+    "Kocham to, że jesteśmy „my”, nawet kiedy nie wszystko wychodzi idealnie.",
+    "I im bardziej Cię poznaję, tym bardziej widzę, jak wyjątkową jesteś osobą.",
+    "Lubię to, że jesteś prawdziwa, że potrafisz być silna i wrażliwa jednocześnie.",
+    "Z każdym dniem coraz bardziej wiem, że chcę to kontynuować.",
+    "Chcę poznawać Cię dalej, śmiać się z Tobą i uczyć się siebie nawzajem.",
+    "I po prostu być przy Tobie.",
+    "Kocham Cię."
   ];
 
   const [index, setIndex] = useState(0);
