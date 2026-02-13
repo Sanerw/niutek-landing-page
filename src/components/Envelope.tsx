@@ -16,9 +16,11 @@ const Envelope = () => {
     "Nie planowałem tego, ale bardzo się cieszę, że to właśnie Ty stanęłaś na mojej drodze.",
     "Kocham to, że jesteśmy „my”, nawet kiedy nie wszystko wychodzi idealnie.",
     "I im bardziej Cię poznaję, tym bardziej widzę, jak wyjątkową jesteś osobą.",
-    "Lubię to, że jesteś prawdziwa, że potrafisz być silna i wrażliwa jednocześnie.",
-    "Z każdym dniem coraz bardziej wiem, że chcę to kontynuować.",
-    "Chcę poznawać Cię dalej, śmiać się z Tobą i uczyć się siebie nawzajem.",
+    "Podziwiam Twoją prawdziwość — to, że potrafisz być silna i wrażliwa jednocześnie.",
+    "Przy Tobie czuję się spokojniej i bardziej sobą.",
+    "Z Tobą nawet zwykłe chwile nabierają znaczenia.",
+    "I z każdym dniem coraz mocniej wiem, że chcę to rozwijać.",
+    "Chcę dalej Cię poznawać, śmiać się z Tobą i uczyć się siebie nawzajem.",
     "I po prostu być przy Tobie.",
     "Kocham Cię."
   ];
